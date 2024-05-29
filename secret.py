@@ -41,4 +41,3 @@ if __name__ == "__main__":
     print("Encodage : ")
     print(encode(text))
 
-# coucou toi
