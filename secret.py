@@ -40,4 +40,3 @@ if __name__ == "__main__":
     text = input("Entrez un texte : ")
     print("Encodage : ")
     print(encode(text))
-
